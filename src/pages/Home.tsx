@@ -3,7 +3,9 @@ import { useState } from 'react'
 export default function Home() {
   
   return (
-    <h1>Home</h1>
+    <div className='m-auto w-7'>
+      Home
+    </div>
   )
 }
 
